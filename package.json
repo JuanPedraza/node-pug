@@ -1,0 +1,16 @@
+{
+  "name": "nodeWithPug",
+  "version": "0.0.1",
+  "description": "Usando Nodejs con Pug",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "@Juan_pedraza",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "pug": "^3.0.0"
+  }
+}
